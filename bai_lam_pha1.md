@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 1 – HACKATHON 02
 
 - **Mã đề:** 06
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha1:**
+- **Họ tên:**Cao Bảo Lâmm
+- **Lớp:**CNTT2
+- **Link repository Pha1:**https://github.com/Baolam070108/-HN-KS26--CNTT2_Pha1.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
